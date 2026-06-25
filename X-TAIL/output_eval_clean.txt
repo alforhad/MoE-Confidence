@@ -1,0 +1,136 @@
+Learned: 0 Dataset: 0 Top-1 accuracy: 54.85
+Learned: 0 Dataset: 1 Top-1 accuracy: 63.25
+Learned: 0 Dataset: 2 Top-1 accuracy: 35.01
+Learned: 0 Dataset: 3 Top-1 accuracy: 36.28
+Learned: 0 Dataset: 4 Top-1 accuracy: 51.13
+Learned: 0 Dataset: 5 Top-1 accuracy: 71.07
+Learned: 0 Dataset: 6 Top-1 accuracy: 88.17
+Learned: 0 Dataset: 7 Top-1 accuracy: 42.44
+Learned: 0 Dataset: 8 Top-1 accuracy: 88.69
+Learned: 0 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 0 Dataset: 10 Top-1 accuracy: 58.69
+Learned: 1 Dataset: 0 Top-1 accuracy: 53.05
+Learned: 1 Dataset: 1 Top-1 accuracy: 60.25
+Learned: 1 Dataset: 2 Top-1 accuracy: 43.58
+Learned: 1 Dataset: 3 Top-1 accuracy: 36.54
+Learned: 1 Dataset: 4 Top-1 accuracy: 51.13
+Learned: 1 Dataset: 5 Top-1 accuracy: 71.08
+Learned: 1 Dataset: 6 Top-1 accuracy: 88.62
+Learned: 1 Dataset: 7 Top-1 accuracy: 42.54
+Learned: 1 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 1 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 1 Dataset: 10 Top-1 accuracy: 59.14
+Learned: 2 Dataset: 0 Top-1 accuracy: 53.05
+Learned: 2 Dataset: 1 Top-1 accuracy: 79.38
+Learned: 2 Dataset: 2 Top-1 accuracy: 69.35
+Learned: 2 Dataset: 3 Top-1 accuracy: 37.39
+Learned: 2 Dataset: 4 Top-1 accuracy: 51.15
+Learned: 2 Dataset: 5 Top-1 accuracy: 71.28
+Learned: 2 Dataset: 6 Top-1 accuracy: 88.63
+Learned: 2 Dataset: 7 Top-1 accuracy: 39.95
+Learned: 2 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 2 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 2 Dataset: 10 Top-1 accuracy: 60.97
+Learned: 3 Dataset: 0 Top-1 accuracy: 53.02
+Learned: 3 Dataset: 1 Top-1 accuracy: 78.74
+Learned: 3 Dataset: 2 Top-1 accuracy: 70.64
+Learned: 3 Dataset: 3 Top-1 accuracy: 63.40
+Learned: 3 Dataset: 4 Top-1 accuracy: 52.67
+Learned: 3 Dataset: 5 Top-1 accuracy: 71.28
+Learned: 3 Dataset: 6 Top-1 accuracy: 88.70
+Learned: 3 Dataset: 7 Top-1 accuracy: 43.46
+Learned: 3 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 3 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 3 Dataset: 10 Top-1 accuracy: 61.07
+Learned: 4 Dataset: 0 Top-1 accuracy: 52.99
+Learned: 4 Dataset: 1 Top-1 accuracy: 78.69
+Learned: 4 Dataset: 2 Top-1 accuracy: 70.42
+Learned: 4 Dataset: 3 Top-1 accuracy: 63.51
+Learned: 4 Dataset: 4 Top-1 accuracy: 97.00
+Learned: 4 Dataset: 5 Top-1 accuracy: 71.28
+Learned: 4 Dataset: 6 Top-1 accuracy: 88.70
+Learned: 4 Dataset: 7 Top-1 accuracy: 43.81
+Learned: 4 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 4 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 4 Dataset: 10 Top-1 accuracy: 61.08
+Learned: 5 Dataset: 0 Top-1 accuracy: 52.99
+Learned: 5 Dataset: 1 Top-1 accuracy: 81.22
+Learned: 5 Dataset: 2 Top-1 accuracy: 74.63
+Learned: 5 Dataset: 3 Top-1 accuracy: 64.89
+Learned: 5 Dataset: 4 Top-1 accuracy: 96.96
+Learned: 5 Dataset: 5 Top-1 accuracy: 93.43
+Learned: 5 Dataset: 6 Top-1 accuracy: 88.70
+Learned: 5 Dataset: 7 Top-1 accuracy: 44.21
+Learned: 5 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 5 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 5 Dataset: 10 Top-1 accuracy: 61.20
+Learned: 6 Dataset: 0 Top-1 accuracy: 52.99
+Learned: 6 Dataset: 1 Top-1 accuracy: 82.03
+Learned: 6 Dataset: 2 Top-1 accuracy: 75.00
+Learned: 6 Dataset: 3 Top-1 accuracy: 66.86
+Learned: 6 Dataset: 4 Top-1 accuracy: 96.94
+Learned: 6 Dataset: 5 Top-1 accuracy: 93.43
+Learned: 6 Dataset: 6 Top-1 accuracy: 91.66
+Learned: 6 Dataset: 7 Top-1 accuracy: 44.60
+Learned: 6 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 6 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 6 Dataset: 10 Top-1 accuracy: 61.30
+Learned: 7 Dataset: 0 Top-1 accuracy: 52.96
+Learned: 7 Dataset: 1 Top-1 accuracy: 82.14
+Learned: 7 Dataset: 2 Top-1 accuracy: 74.91
+Learned: 7 Dataset: 3 Top-1 accuracy: 66.70
+Learned: 7 Dataset: 4 Top-1 accuracy: 96.94
+Learned: 7 Dataset: 5 Top-1 accuracy: 93.43
+Learned: 7 Dataset: 6 Top-1 accuracy: 91.67
+Learned: 7 Dataset: 7 Top-1 accuracy: 98.03
+Learned: 7 Dataset: 8 Top-1 accuracy: 88.93
+Learned: 7 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 7 Dataset: 10 Top-1 accuracy: 61.37
+Learned: 8 Dataset: 0 Top-1 accuracy: 52.96
+Learned: 8 Dataset: 1 Top-1 accuracy: 84.85
+Learned: 8 Dataset: 2 Top-1 accuracy: 76.55
+Learned: 8 Dataset: 3 Top-1 accuracy: 66.70
+Learned: 8 Dataset: 4 Top-1 accuracy: 96.94
+Learned: 8 Dataset: 5 Top-1 accuracy: 93.43
+Learned: 8 Dataset: 6 Top-1 accuracy: 91.66
+Learned: 8 Dataset: 7 Top-1 accuracy: 98.05
+Learned: 8 Dataset: 8 Top-1 accuracy: 93.54
+Learned: 8 Dataset: 9 Top-1 accuracy: 63.77
+Learned: 8 Dataset: 10 Top-1 accuracy: 61.43
+Learned: 9 Dataset: 0 Top-1 accuracy: 52.96
+Learned: 9 Dataset: 1 Top-1 accuracy: 86.06
+Learned: 9 Dataset: 2 Top-1 accuracy: 77.53
+Learned: 9 Dataset: 3 Top-1 accuracy: 66.44
+Learned: 9 Dataset: 4 Top-1 accuracy: 96.89
+Learned: 9 Dataset: 5 Top-1 accuracy: 93.43
+Learned: 9 Dataset: 6 Top-1 accuracy: 91.64
+Learned: 9 Dataset: 7 Top-1 accuracy: 98.05
+Learned: 9 Dataset: 8 Top-1 accuracy: 93.51
+Learned: 9 Dataset: 9 Top-1 accuracy: 86.12
+Learned: 9 Dataset: 10 Top-1 accuracy: 61.64
+Learned: 10 Dataset: 0 Top-1 accuracy: 52.87
+Learned: 10 Dataset: 1 Top-1 accuracy: 89.46
+Learned: 10 Dataset: 2 Top-1 accuracy: 85.34
+Learned: 10 Dataset: 3 Top-1 accuracy: 73.94
+Learned: 10 Dataset: 4 Top-1 accuracy: 97.30
+Learned: 10 Dataset: 5 Top-1 accuracy: 93.43
+Learned: 10 Dataset: 6 Top-1 accuracy: 92.00
+Learned: 10 Dataset: 7 Top-1 accuracy: 98.05
+Learned: 10 Dataset: 8 Top-1 accuracy: 93.76
+Learned: 10 Dataset: 9 Top-1 accuracy: 86.12
+Learned: 10 Dataset: 10 Top-1 accuracy: 79.66
+
+[[54.85 63.25 35.01 36.28 51.13 71.07 88.17 42.44 88.69 63.77 58.69]
+ [53.05 60.25 43.58 36.54 51.13 71.08 88.62 42.54 88.93 63.77 59.14]
+ [53.05 79.38 69.35 37.39 51.15 71.28 88.63 39.95 88.93 63.77 60.97]
+ [53.02 78.74 70.64 63.4  52.67 71.28 88.7  43.46 88.93 63.77 61.07]
+ [52.99 78.69 70.42 63.51 97.   71.28 88.7  43.81 88.93 63.77 61.08]
+ [52.99 81.22 74.63 64.89 96.96 93.43 88.7  44.21 88.93 63.77 61.2 ]
+ [52.99 82.03 75.   66.86 96.94 93.43 91.66 44.6  88.93 63.77 61.3 ]
+ [52.96 82.14 74.91 66.7  96.94 93.43 91.67 98.03 88.93 63.77 61.37]
+ [52.96 84.85 76.55 66.7  96.94 93.43 91.66 98.05 93.54 63.77 61.43]
+ [52.96 86.06 77.53 66.44 96.89 93.43 91.64 98.05 93.51 86.12 61.64]
+ [52.87 89.46 85.34 73.94 97.3  93.43 92.   98.05 93.76 86.12 79.66]]
+average transfer acc: 60.704676190476185
+average average acc: 72.37239669421488
+average last acc: 85.63000000000001

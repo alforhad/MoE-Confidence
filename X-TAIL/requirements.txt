@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.22
+tqdm>=4.64
+Pillow>=9.0
+pandas>=1.4
+continuum>=1.2
+ftfy>=6.1
+regex>=2022.1.18
